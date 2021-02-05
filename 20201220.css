@@ -3,9 +3,10 @@
     font-weight: 500;
     text-shadow: 5px 5px 5px bisque;
     letter-spacing:15px;
-    border-style: solid;
-    border-color: black;
+    border-style: dotted;
+    border-color: rgb(80, 4, 4);
     border-width: 2px;
+    border-radius: 10px;
 }
 
 .b1{
@@ -57,3 +58,15 @@ button{
     bottom: 100px;
     left: 700px;
 }
+a {
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+}
+a:link, a:visited, a:focus {
+    background: yellow;
+  }
+  
+a:hover {
+    background: orange;
+  }
