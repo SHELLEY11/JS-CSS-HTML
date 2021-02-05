@@ -1,0 +1,59 @@
+#header{
+    font-family: Arial;
+    font-weight: 500;
+    text-shadow: 5px 5px 5px bisque;
+    letter-spacing:15px;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px;
+}
+
+.b1{
+    position: absolute; 
+    left: 100px;
+    top: 90px;
+}
+
+.b1 p{
+    font-size: 30px;
+}
+
+.b1 p input,select{
+    font-size: 30px;
+}
+
+.b2{
+    position: absolute;
+    left: 800px;
+    top: 90px;
+}
+
+.b2 p{
+    font-size: 30px;
+}
+
+.b2 p input,select{
+    font-size: 30px;
+}
+
+.b3{
+    position: absolute;
+    left: 100px;
+    margin-top: 350px;
+    font-size: 30px;
+    font-family: "Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+}
+
+.b3 p input{
+    width: 900px;
+    height: 200px;
+    font-size: 30px;
+    word-break:break-all;
+}
+
+button{
+    position: absolute;
+    font-size: 30px;
+    bottom: 100px;
+    left: 700px;
+}
