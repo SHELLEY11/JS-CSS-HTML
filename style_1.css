@@ -1,0 +1,41 @@
+.boxt{
+    font-family: Arial;
+    font-weight: 500;
+    text-shadow: 5px 5px 5px bisque;
+    letter-spacing:15px;
+    border-style: dotted;
+    border-color: rgb(80, 4, 4);
+    border-width: 2px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+
+.b1{
+    position: absolute; 
+    left: 50px;
+    top: 50px;
+}
+
+.b1 p{
+    font-size: 30px;
+}
+
+.b1 p input,select{
+    font-size: 30px;
+}
+
+.b1 ul{
+    border: none;
+    padding: .2em;    
+}
+
+.b1 ul.u1{
+    list-style-type: none;
+    display: inline-flex;
+    list-style: none;  
+}
+
+.b1 ul.u2{
+    list-style-type: none;
+}
